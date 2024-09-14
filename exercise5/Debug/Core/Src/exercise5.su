@@ -1,0 +1,4 @@
+exercise5.c:15:6:display7SEG_Horizontal	16	static
+exercise5.c:112:6:display7SEG_VERTICAL	16	static
+exercise5.c:208:6:init_exercise5	8	static
+exercise5.c:229:6:exercise5_run	8	static
