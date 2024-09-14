@@ -1,0 +1,3 @@
+exercise6.c:12:6:init_exercise6	8	static
+exercise6.c:26:6:exercise6_run	8	static
+exercise6.c:33:6:ClockSimulation	16	static
